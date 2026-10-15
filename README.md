@@ -167,3 +167,19 @@ ai-data-analyst/
 ## License
 
 MIT License
+## 📸 Application Screenshots
+
+### Home Page
+![AI Data Analyst Home Page](screenshots/app-home.png)
+
+### Data Overview
+![Dataset Overview](screenshots/app-data-overview.png)
+
+### Data Visualization
+![AI Data Analyst Visualization](screenshots/app-vis.png)
+## 🚀 Live Demo
+
+**Try the AI Data Analyst Chatbot online:**
+
+[Launch the Application](https://ai-data-analyst-vbxursw8daupwmytt9ddz6.streamlit.app/)
+
