@@ -1,7 +1,22 @@
-# AI Data Analyst Chatbot
+<div align="center">
 
-A Streamlit-based AI data analyst that lets you upload CSV/Excel files and ask questions in natural language. Powered by NVIDIA Nemotron 3 Ultra via OpenAI-compatible API.
+# 🤖 AI Data Analyst Chatbot
 
+### Conversational Data Analytics Powered by NVIDIA Nemotron
+
+Upload datasets, ask questions in natural language, calculate metrics, analyze trends, and visualize insights through an interactive Streamlit application.
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_the_App-00C853?style=for-the-badge)](https://ai-data-analyst-vbxursw8daupwmytt9ddz6.streamlit.app/)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)](https://www.langchain.com/)
+[![NVIDIA](https://img.shields.io/badge/LLM-NVIDIA_Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://build.nvidia.com/)
+
+</div>
+
+---
 ## Features
 
 - **Data Upload**: Support for CSV and Excel (.xlsx, .xls) files with validation and error handling
@@ -20,7 +35,7 @@ A Streamlit-based AI data analyst that lets you upload CSV/Excel files and ask q
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/saqib-ai18/ai-data-analyst.git
 cd ai-data-analyst
 
 # Create virtual environment (recommended)
